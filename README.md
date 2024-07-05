@@ -1,2 +1,5 @@
-# My-Projects
-This repo contains my projects which I made during my learning
+# My Projects
+
+1. **Weather App**
+   - [Deployed Link](https://visionary-truffle-fcf407.netlify.app/)
+
